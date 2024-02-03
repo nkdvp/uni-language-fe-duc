@@ -35,7 +35,7 @@ bower_components
 build/Release
 
 # Dependency directories
-node_modules/
+# node_modules/
 jspm_packages/
 
 # TypeScript v1 declaration files
@@ -56,7 +56,7 @@ typings/
 .yarn-integrity
 
 # dotenv environment variables file
-.env
+# .env
 
 # parcel-bundler cache (https://parceljs.org/)
 .cache
@@ -65,7 +65,7 @@ typings/
 .next
 
 # nuxt.js build output
-.nuxt
+# .nuxt
 
 # Nuxt generate
 dist
@@ -88,4 +88,4 @@ sw.*
 # Vim swap files
 *.swp
 
-.env
+# .env
